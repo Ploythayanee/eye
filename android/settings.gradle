@@ -1,0 +1,3 @@
+rootProject.name = 'thesis_imd'
+
+include ':app'
